@@ -1,3 +1,6 @@
+# Pokemon Game
+
+![alt text](https://github.com/Doumham-Armah/pokedex/blob/main/pokemon.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
