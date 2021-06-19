@@ -1,4 +1,5 @@
 # Pokemon Game
+Refresh web page to battle!
 
 ![alt text](https://github.com/Doumham-Armah/pokedex/blob/main/pokemon.png)
 # Getting Started with Create React App
